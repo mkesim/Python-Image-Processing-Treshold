@@ -1,2 +1,2 @@
-# treshold-examples
-personal sources are restricted and could be changed
+# Image Processing using Python
+
